@@ -1,2 +1,2 @@
-# Art
+# UAS
 Berbagi itu indah
